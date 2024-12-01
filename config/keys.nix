@@ -178,7 +178,7 @@
       action = "<C-W>j";
       options = {
         silent = true;
-        desc = "Move to window bellow";
+        desc = "Move to window below";
       };
     }
 
